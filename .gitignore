@@ -1,5 +1,8 @@
 data
+__pycache__
 
 nyt.api.txt
 
 *.csv
+
+*.log
