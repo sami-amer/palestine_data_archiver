@@ -80,3 +80,5 @@ def get_data(url):
 
 def grab_search_term(article_url):
     return article_url.split('/')[-1].split('-')[0]
+
+# ! add article downloader here
